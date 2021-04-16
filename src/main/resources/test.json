@@ -1,0 +1,186 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-04-16T13:00:00+05:30",
+    "EffectiveEpochDate": 1618558200,
+    "Severity": 5,
+    "Text": "A thunderstorm Friday afternoon",
+    "Category": "thunderstorm",
+    "EndDate": "2021-04-16T19:00:00+05:30",
+    "EndEpochDate": 1618579800,
+    "MobileLink": "http://m.accuweather.com/en/in/menamkulam/2875157/extended-weather-forecast/2875157?lang=en-us",
+    "Link": "http://www.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-04-16T07:00:00+05:30",
+      "EpochDate": 1618536600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 80,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 90,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=1&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=1&lang=en-us"
+    },
+    {
+      "Date": "2021-04-17T07:00:00+05:30",
+      "EpochDate": 1618623000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 80,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 90,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 38,
+        "IconPhrase": "Mostly cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=2&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=2&lang=en-us"
+    },
+    {
+      "Date": "2021-04-18T07:00:00+05:30",
+      "EpochDate": 1618709400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 81,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 89,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 12,
+        "IconPhrase": "Showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=3&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=3&lang=en-us"
+    },
+    {
+      "Date": "2021-04-19T07:00:00+05:30",
+      "EpochDate": 1618795800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 81,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 89,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 4,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 36,
+        "IconPhrase": "Intermittent clouds",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=4&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=4&lang=en-us"
+    },
+    {
+      "Date": "2021-04-20T07:00:00+05:30",
+      "EpochDate": 1618882200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 82,
+          "Unit": "F",
+          "UnitType": 18
+        },
+        "Maximum": {
+          "Value": 91,
+          "Unit": "F",
+          "UnitType": 18
+        }
+      },
+      "Day": {
+        "Icon": 15,
+        "IconPhrase": "Thunderstorms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Night": {
+        "Icon": 7,
+        "IconPhrase": "Cloudy",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=5&lang=en-us",
+      "Link": "http://www.accuweather.com/en/in/menamkulam/2875157/daily-weather-forecast/2875157?day=5&lang=en-us"
+    }
+  ]
+}
